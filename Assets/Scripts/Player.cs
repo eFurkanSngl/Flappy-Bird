@@ -24,6 +24,13 @@ public class Player : MonoBehaviour
         // method adı - başlamı zamanı - kaç sn de bir tekrar edeceği parametrelerini alır.
     }
 
+    private void OnEnable()
+    {
+        Vector3 pos = transform.position;
+        pos.y = 0f;
+        transform.position = pos;
+        _dir = Vector3.zero;
+    }
 
     private void Update()
     {
@@ -45,5 +52,20 @@ public class Player : MonoBehaviour
         }
 
         _spriteRenderer.sprite = spirtes[spriteIndex];
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "Obstacle")
+        {
+            FindObjectOfType<GameManager>().GameOver();
+        }
+        else
+        {
+            if (other.gameObject.tag == "Scoring")
+            {
+                FindObjectOfType<GameManager>().IncreaseScore();
+            }
+        }
     }
 }

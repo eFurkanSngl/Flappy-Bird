@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 9fd925f59dcbcd94d8e8860d1d26c296
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 342
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9815877dcdc1e547938497d6e79b86e
+      internalID: 65221745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 342
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e66fd4eb38fe42b1b2c88b10524cc
+      internalID: -1327489495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 343
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d99aae52de4149a3471eedefabab1
+      internalID: -1877966989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 342
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1db9dfdb709024aa3191bdfaa5dcaf
+      internalID: 1997054905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 184
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042eb4362e9122b49b58e14552fd90d4
+      internalID: -2077756926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 184
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82b507058092d478023a9ce8ddf29c
+      internalID: -1642242954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 184
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103c59e5a72a1c4996c8fb38e516a06
+      internalID: -995749676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 184
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e33be4c589910499312ae1f8752d9c
+      internalID: 131494320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1b4f844f0209c479cebaa0d955cf72
+      internalID: -1660334452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 25
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e397c9b3d46b62c4d9fc13680f802719
+      internalID: 1646300986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 25
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b6f3e776564544a8d6a8f371f80e9
+      internalID: -886248318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 25
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30835b38e434640b88c2d0720e24ff
+      internalID: 1752640507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_0: 65221745
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_1: -1327489495
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_10: -886248318
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_11: 1752640507
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_2: -1877966989
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_3: 1997054905
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_4: -2077756926
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_5: -1642242954
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_6: -995749676
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_7: 131494320
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_8: -1660334452
+      menu-button-game-template-gui-kit-button-interface-build-web-mobile-games-apps_1150-49115_9: 1646300986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
